@@ -61,7 +61,7 @@ GEM
       tzinfo (~> 1.1)
     airbrussh (1.4.0)
       sshkit (>= 1.6.1, != 1.7.0)
-    api-pagination (4.8.2)
+    api-pagination (5.0.0)
     apollo-federation (1.1.5)
       google-protobuf (~> 3.7)
       graphql (>= 1.9.8)
