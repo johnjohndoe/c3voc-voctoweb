@@ -337,7 +337,7 @@ GEM
     sdoc (2.2.0)
       rdoc (>= 5.0)
     search_object (1.2.4)
-    search_object_graphql (1.0.1)
+    search_object_graphql (1.0.2)
       graphql (~> 1.8)
       search_object (~> 1.2.2)
     sidekiq (6.2.2)
