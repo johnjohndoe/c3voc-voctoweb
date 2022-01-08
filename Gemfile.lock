@@ -336,7 +336,7 @@ GEM
       tilt
     sdoc (2.2.0)
       rdoc (>= 5.0)
-    search_object (1.2.4)
+    search_object (1.2.5)
     search_object_graphql (1.0.1)
       graphql (~> 1.8)
       search_object (~> 1.2.2)
